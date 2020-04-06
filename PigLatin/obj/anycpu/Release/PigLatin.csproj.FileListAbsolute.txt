@@ -1,0 +1,1 @@
+/Users/Brance/Desktop/C-Sharp-Programs/ManyMethods/PigLatin/obj/anycpu/Release/PigLatin.csproj.CoreCompileInputs.cache

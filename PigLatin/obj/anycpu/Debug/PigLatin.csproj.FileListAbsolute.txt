@@ -1,0 +1,6 @@
+/Users/Brance/Desktop/C-Sharp-Programs/ManyMethods/PigLatin/obj/anycpu/Debug/PigLatin.csprojAssemblyReference.cache
+/Users/Brance/Desktop/C-Sharp-Programs/ManyMethods/PigLatin/obj/anycpu/Debug/PigLatin.csproj.CoreCompileInputs.cache
+/Users/Brance/Desktop/C-Sharp-Programs/ManyMethods/PigLatin/bin/Debug/PigLatin.exe
+/Users/Brance/Desktop/C-Sharp-Programs/ManyMethods/PigLatin/bin/Debug/PigLatin.pdb
+/Users/Brance/Desktop/C-Sharp-Programs/ManyMethods/PigLatin/obj/anycpu/Debug/PigLatin.exe
+/Users/Brance/Desktop/C-Sharp-Programs/ManyMethods/PigLatin/obj/anycpu/Debug/PigLatin.pdb

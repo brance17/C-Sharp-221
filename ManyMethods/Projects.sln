@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManyMethods", "ManyMethods\ManyMethods.csproj", "{7AB7388F-C763-4769-BCA8-7C471A9618B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PigLatin", "PigLatin\PigLatin.csproj", "{78D9EFC8-4AD3-4727-AD54-D69727132A30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AB7388F-C763-4769-BCA8-7C471A9618B6}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{7AB7388F-C763-4769-BCA8-7C471A9618B6}.Debug|anycpu.Build.0 = Debug|anycpu
+		{7AB7388F-C763-4769-BCA8-7C471A9618B6}.Release|anycpu.ActiveCfg = Release|anycpu
+		{7AB7388F-C763-4769-BCA8-7C471A9618B6}.Release|anycpu.Build.0 = Release|anycpu
+		{78D9EFC8-4AD3-4727-AD54-D69727132A30}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{78D9EFC8-4AD3-4727-AD54-D69727132A30}.Debug|anycpu.Build.0 = Debug|anycpu
+		{78D9EFC8-4AD3-4727-AD54-D69727132A30}.Release|anycpu.ActiveCfg = Release|anycpu
+		{78D9EFC8-4AD3-4727-AD54-D69727132A30}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+/Users/Brance/Desktop/C-Sharp-Programs/ManyMethods/ManyMethods/bin/Debug/ManyMethods.exe
+/Users/Brance/Desktop/C-Sharp-Programs/ManyMethods/ManyMethods/bin/Debug/ManyMethods.pdb
+/Users/Brance/Desktop/C-Sharp-Programs/ManyMethods/ManyMethods/obj/Debug/ManyMethods.csprojAssemblyReference.cache
+/Users/Brance/Desktop/C-Sharp-Programs/ManyMethods/ManyMethods/obj/Debug/ManyMethods.csproj.CoreCompileInputs.cache
+/Users/Brance/Desktop/C-Sharp-Programs/ManyMethods/ManyMethods/obj/Debug/ManyMethods.exe
+/Users/Brance/Desktop/C-Sharp-Programs/ManyMethods/ManyMethods/obj/Debug/ManyMethods.pdb

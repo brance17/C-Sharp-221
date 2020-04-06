@@ -1,0 +1,4 @@
+/Users/Brance/Desktop/C-Sharp-Programs/ManyMethods/ManyMethods/obj/Release/ManyMethods.csproj.CoreCompileInputs.cache
+/Users/Brance/Desktop/C-Sharp-Programs/ManyMethods/ManyMethods/bin/Release/ManyMethods.exe
+/Users/Brance/Desktop/C-Sharp-Programs/ManyMethods/ManyMethods/obj/Release/ManyMethods.exe
+/Users/Brance/Desktop/C-Sharp-Programs/ManyMethods/ManyMethods/obj/Release/ManyMethods.csprojAssemblyReference.cache
