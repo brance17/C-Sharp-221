@@ -14,10 +14,7 @@ namespace Checkers
 
             game.Start();
 
-
-
             Console.ReadKey();
         }
     }
-
 }
