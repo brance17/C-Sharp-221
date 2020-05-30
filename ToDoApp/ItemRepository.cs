@@ -7,7 +7,7 @@ namespace ToDoApp
 {
 
 
-    public class ItemRepository //this class manages items, ie: add delete pull sort filter
+    public class ItemRepository //manages items entered
     {
         public ItemContext itemContext = new ItemContext();
 
@@ -33,8 +33,6 @@ namespace ToDoApp
                 itemContext.Remove(deleteItem);
                 itemContext.SaveChanges();
             }
-
-            // Create an if else statement to check if the number given is a valid ID of a TODO item, if not null remove if null do nothing.
 
         }
 

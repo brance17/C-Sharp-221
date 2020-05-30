@@ -4,9 +4,9 @@ using System.Text;
 
 namespace ToDoApp
 {
-    public class ConsoleUtils //handles only input and output
+    public class ConsoleUtils
     {
-        //static ItemContext context = new ItemContext();
+       
 
         public int UtilGetUserOption()
         {

@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ToDoApp
 {
-    public class App //driver 
+    public class App
     {
 
         ConsoleUtils consoleUtils;
@@ -28,11 +28,11 @@ namespace ToDoApp
                 switch (response)
                 {
 
-                    case 1: //Add ToDoItem
+                    case 1: //add items
                         itemRepository.AddItem(consoleUtils.UtilAddItem());
                         break;
 
-                    case 2: // Delete ToDoItem
+                    case 2: // delete items
                         if (itemRepository.CheckItem(consoleUtils.UtilGetItem()) == true)
                         {
                             itemRepository.RemoveItem(consoleUtils.UtilGetItem());
@@ -44,7 +44,7 @@ namespace ToDoApp
 
                         break;
 
-                    case 3: // Mark a ToDoItem as Done
+                    case 3: // mark items as complete
 
                         if (itemRepository.CheckItem(consoleUtils.UtilGetItem()) == true)
                         {
@@ -56,15 +56,15 @@ namespace ToDoApp
                         }
                         break;
 
-                    case 4: //List all ToDoItems
+                    case 4: //lists all items
                         consoleUtils.UtilPrintList(itemRepository.GetAllItem());
                         break;
 
-                    case 5: //List all Done ToDoItems
+                    case 5: //lists all done items
                         consoleUtils.UtilPrintList(itemRepository.GetDoneItem());
                         break;
 
-                    case 6: //List all Pending ToDoItems
+                    case 6: //lists all pending items
                         consoleUtils.UtilPrintList(itemRepository.GetPendingItem());
                         break;
 

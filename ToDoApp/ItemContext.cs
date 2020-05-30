@@ -4,7 +4,7 @@ using System.IO;
 
 namespace ToDoApp
 {
-    public class ItemContext : DbContext //houses the entity framework
+    public class ItemContext : DbContext 
     {
         public DbSet<ToDoItem> ToDoItem { get; set; }
 

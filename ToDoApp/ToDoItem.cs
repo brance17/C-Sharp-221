@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ToDoApp
 {
-    public class ToDoItem //model to match up to columns in database
+    public class ToDoItem //matches up to database columns
     {
         public int Id { get; set; }
         public string Description { get; set; }
